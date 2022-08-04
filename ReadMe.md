@@ -6,7 +6,6 @@
 - A UI prefab environment featuring a book model to help preview how your menu will look.
 - An example mod folder featuring the required JSON setup for adding your menu to the game.
 
----
 ## Preview:
 
 ### Editor Prefab Scene
