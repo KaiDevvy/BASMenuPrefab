@@ -1,0 +1,7 @@
+{
+    "Name": "ExampleMenu",
+    "Description": "A sample mod demonstrating how to implement a custom menu",
+    "Author": "Devvy",
+    "ModVersion": "1.0",
+    "GameVersion": "0.11.0.0"
+}

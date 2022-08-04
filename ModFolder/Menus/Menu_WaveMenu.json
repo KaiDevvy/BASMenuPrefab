@@ -1,0 +1,10 @@
+{
+    "$type": "ThunderRoad.MenuData, Assembly-CSharp",
+    "id": "ExampleMenu",
+    "saveFolder": "Bas",
+    "version": 1,
+    "order": 8.0,
+    "isDefault": false,
+    "iconAddress": "Example.ExampleMenu.Icon.Menu",
+    "prefabAddress": "Example.ExampleMenu.Prefab.Menu"
+}
